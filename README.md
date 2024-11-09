@@ -32,5 +32,5 @@
 # My Streaks
 ![GitHub Streak](https://streak-stats.demolab.com?user=DaisyMO2&theme=radical) 
 
-# My Most Used Languages 
+# Most Used Languages 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyMO2&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
